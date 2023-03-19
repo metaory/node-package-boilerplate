@@ -25,3 +25,4 @@
 
 ## License
 
+This project is dedicated to the public domain as described by the [Unlicense](http://unlicense.org/).
